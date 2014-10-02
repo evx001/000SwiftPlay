@@ -38,3 +38,5 @@ if onSaleInferred {
 
 print("\(totalTeam)")
 
+
+// -> view -> assistant editor -> console output from playground
