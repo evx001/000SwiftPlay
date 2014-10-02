@@ -40,3 +40,7 @@ print("\(totalTeam)")
 
 
 // -> view -> assistant editor -> console output from playground
+// also [command + enter] -> main view playground
+// also [option + command + enter] -> console 
+
+
