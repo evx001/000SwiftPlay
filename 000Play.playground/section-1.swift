@@ -22,10 +22,9 @@ class TipCalc {
     // but like records in Haskell
     // the parameters // fields must have unique names
     init(total:Double, taxPct:Double) {
-        self.total = total
-        self.taxPct = taxPct
-        subTotal = total / (taxPct + 1)
-
+        self.total = total // "self." added here for for uniquness
+        self.taxPct = taxPct // and here as well.
+        subTotal = total / (taxPct + 1) // subtotal has no conflict
     }
 
 }
